@@ -10,22 +10,13 @@ API developmenet and Usage
 Chapt Prompt Engineering for developers - OpenAI course [https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/2/guidelines]
 
 https://platform.openai.com/account/api-keys
-Name : ChatGPT  Key : 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
+
 
 Setup Open AI in Laptop - 
 
 pip install openai
-export OPENAI_API_KEY='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'
+export OPENAI_API_KEY='sk-...'
 
 OR Use this in code file as :
 import openai
-openai.api_key = "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"
-
-
-
-Thank you for the opportunity to interact for Technical Program Manager[Release] at Waymo. 
-I'm very interested in the role, and I'm excited about the possibility of joining your team. 
-
-Could you please provide an estimate of when I can expect to hear back regarding the next steps in the interview process?
-
-Thanks for your time and looking forward to it.
+openai.api_key = "sk-O..."
